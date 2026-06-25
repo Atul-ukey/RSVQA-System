@@ -33,7 +33,7 @@ The first architecture utilizes a Convolutional Neural Network (CNN) backbone fo
 4. Visual and textual representations are combined using a **Bilinear Attention Mechanism**.
 5. The fused representation is passed through fully connected layers to predict the answer.
 
-![ResNet Architecture](assets/architectures/Resnet Model.png)
+![ResNet Architecture](assets/architectures/Resnet_Model.png)
 
 ---
 
@@ -45,7 +45,7 @@ The first architecture utilizes a Convolutional Neural Network (CNN) backbone fo
 4. Bilinear Attention fuses visual and textual information.
 5. The fused representation is used for answer prediction.
 
-![Swin Transformer Architecture](assets/architectures/Swin Model.png)
+![Swin Transformer Architecture](assets/architectures/Swin_Model.png)
 
 ---
 
